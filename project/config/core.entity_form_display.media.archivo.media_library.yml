@@ -1,0 +1,29 @@
+uuid: d2380fbb-41de-40a2-938f-f0fd19ea8ca1
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_form_mode.media.media_library
+    - field.field.media.archivo.field_licencia
+    - field.field.media.archivo.field_media_file
+    - media.type.archivo
+id: media.archivo.media_library
+targetEntityType: media
+bundle: archivo
+mode: media_library
+content:
+  name:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+hidden:
+  created: true
+  field_licencia: true
+  field_media_file: true
+  path: true
+  status: true
+  uid: true

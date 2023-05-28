@@ -1,0 +1,89 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-jasircarvajal-lab02-ewvd2w6s1fh.ws-us98.gitpod.io\/taxonomy\/term\/1?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-jasircarvajal-lab02-ewvd2w6s1fh.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/license"
+        },
+        "https:\/\/8080-jasircarvajal-lab02-ewvd2w6s1fh.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/license\/parent": [
+            null
+        ]
+    },
+    "tid": [
+        {
+            "value": 1
+        }
+    ],
+    "uuid": [
+        {
+            "value": "45ef20b2-5b0f-4aaa-ae59-08faec15cd7b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "license"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-05-26T01:37:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "Copyright",
+            "lang": "en"
+        }
+    ],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-jasircarvajal-lab02-ewvd2w6s1fh.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/license\/parent": [
+            null
+        ]
+    },
+    "changed": [
+        {
+            "value": "2023-05-26T01:37:38+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ]
+}

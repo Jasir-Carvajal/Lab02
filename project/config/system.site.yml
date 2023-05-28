@@ -1,9 +1,9 @@
 _core:
   default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
 langcode: en
-uuid: 54ccea2c-047e-4595-a41c-4da6c01358f5
-name: 'EW Training Sandbox'
-mail: admin@example.com
+uuid: 27a802c3-ecc4-45b5-91a3-280067c96a79
+name: Lab02
+mail: lab02@gmail.com
 slogan: ''
 page:
   403: ''
